@@ -8,16 +8,16 @@
 // **                                                                                **
 // ************************************************************************************
 
-varLength = 1
+varLength = 4
 var entryContent = new Array(varLength)
 
-entryContent[0] = <a href="http://b00102923.blogspot.com/">Creative digital media 2018</a>
+entryContent[0] = "http://b00102923.blogspot.com/"
 entryContent[1] = "https://smithniamh27.blogspot.com/"
 entryContent[2] = "https://cdmmultimedia.blogspot.com/"
 entryContent[3] = "https://conorbrennan98.blogspot.com/"
 
 
-
+<a href="http://b00102923.blogspot.com/">Creative digital media 2018</a>
 
 var randomNumber = Math.random()
 randomNumber *= varLength
