@@ -13,6 +13,7 @@ var entryContent = new Array(varLength)
 
 entryContent[0] = "http://b00102923.blogspot.com/"
 entryContent[1] = "https://smithniamh27.blogspot.com/"
+entryContent[2] = "<img src=\"https://i.ytimg.com/vi/TOQTZ6N_eVg/maxresdefault.jpg\" alt=\"games\" height=\"200\" width=\"200\""
 
 var randomNumber = Math.random()
 randomNumber *= varLength
