@@ -8,7 +8,7 @@
 // **                                                                                **
 // ************************************************************************************
 
-varLength = 2
+varLength = 3
 var entryContent = new Array(varLength)
 
 entryContent[0] = "http://b00102923.blogspot.com/"
