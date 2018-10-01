@@ -67,7 +67,7 @@ entryContent[52] = "<a href=\"http://b00107033daniblog.blogspot.com/\">Dani's Bl
 entryContent[53] = "<a href=\"https://veerachaipitakpoolsin.blogspot.com\">Veerachai's Blog"
 entryContent[54] = "<a href=\"https://b00101961multimedia.blogspot.com\">Stephannie's Blog</a>"
 entryContent[55] = "<a href=\"http://b00093564.blogspot.com\">Aisling's Blog</a>"
-entryContent[56] = "<a href=\"http://witnessedlife.blogspot.com/">Witness's Blog</a>"
+entryContent[56] = "<a href=\"http://witnessedlife.blogspot.com\">Witness's Blog</a>"
 entryContent[57] = "<a href=\"https://shaneconsidine.blogspot.com\">Shane's Blog</a>"
 
 var randomNumber = Math.random()
