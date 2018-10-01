@@ -65,10 +65,10 @@ entryContent[50] = "<a href=\"https://hannahmcgl.blogspot.com\">Hannah's Blog"
 entryContent[51] = "<a href=\"http://robynmulhall3.blogspot.com\">Robyn's Blog"
 entryContent[52] = "<a href=\"http://b00107033daniblog.blogspot.com/\">Dani's Blog"
 entryContent[53] = "<a href=\"https://veerachaipitakpoolsin.blogspot.com\">Veerachai's Blog"
-entryContent[54] = "missing"
+entryContent[54] = "<a href=\"https://b00101961multimedia.blogspot.com">Stephannie's Blog</a>"
 entryContent[55] = "<a href=\"http://b00093564.blogspot.com\">Aislings Blog</a>"
 entryContent[56] = "missing"
-entryContent[57] = "missing"
+entryContent[57] = "<a href=\"https://shaneconsidine.blogspot.com">Shane's Blog</a>"
 
 var randomNumber = Math.random()
 randomNumber *= varLength
