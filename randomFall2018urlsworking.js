@@ -17,7 +17,7 @@ entryContent[2] = "<a href=\"http://nowthisismyblog1.blogspot.com \">Leah's Blog
 entryContent[3] = "<a href=\"http://dillonsmultimedia.blogspot.com/\">Dillion's Blog"
 entryContent[4] = "<a href=\"https://fridayknightgames.blogspot.com/ \">Darragh's Blog"
 entryContent[5] = "<a href=\"https://ryanfarrellcdm.blogspot.com/ \">Ryan's Blog"
-entryContent[6] = "<a href=\"https://www.nicolegoodmanmultimediadevelopment.blogspot.com/\">Nicole's Blog"
+entryContent[6] = "<a href=\"http://nicolegblog.blogspot.com/\">Nicole's Blog"
 entryContent[7] = "<a href=\"http://johnhartigan1198.blogspot.com \">John's Blog"
 entryContent[8] = "<a href=\"https://krislexic.blogspot.com/ \">Krzystof's Blog"
 entryContent[9] = "<a href=\"http://esmeemacp.blogspot.com \">Esmee's Blog"
