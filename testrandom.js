@@ -12,8 +12,8 @@ varLength = 3
 var entryContent = new Array(varLength)
 
 entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/people-1.png\" "
-entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/planet-1.png\" alt=\"Planet Card\" height=\"200\" width=\"200\""
-entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/partnership-1.png\" alt=\"Partnership Card\" height=\"200\" width=\"200\""
+entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/planet-1.png\" "
+entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/partnership-1.png\" "
 
 var randomNumber = Math.random()
 randomNumber *= varLength
