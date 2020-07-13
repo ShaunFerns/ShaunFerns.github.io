@@ -8,12 +8,15 @@
 // **                                                                                **
 // ************************************************************************************
 
-varLength = 3
+varLength = 6
 var entryContent = new Array(varLength)
 
-entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/people-1.png\" "
-entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/planet-1.png\" "
-entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/partnership-1.png\" "
+entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Production.png\" "
+entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Collaboration.png\" "
+entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Investigation.png\" "
+entryContent[3] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Practice.png" "
+entryContent[4] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Discussion.png\" "
+entryContent[5] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Acquisition.png\" "
 
 var randomNumber = Math.random()
 randomNumber *= varLength
