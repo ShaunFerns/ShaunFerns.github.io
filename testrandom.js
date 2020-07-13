@@ -11,8 +11,8 @@
 varLength = 2
 var entryContent = new Array(varLength)
 
-entryContent[0] = "<img src=\"https://sd-discovery.org/resources/Pictures/cropped-gamedesign-bg.jpg\" alt=\"games\" height=\"200\" width=\"200\">"
-entryContent[1] = "<img src=\"https://i.ytimg.com/vi/TOQTZ6N_eVg/maxresdefault.jpg\" alt=\"games\" height=\"200\" width=\"200\""
+entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/people-1.png\" alt=\"games\" height=\"200\" width=\"200\">"
+entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/planet-1.png\" alt=\"games\" height=\"200\" width=\"200\""
 
 var randomNumber = Math.random()
 randomNumber *= varLength
