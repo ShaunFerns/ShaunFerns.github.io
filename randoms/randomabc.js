@@ -14,7 +14,7 @@ var entryContent = new Array(varLength)
 entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Production.png\" "
 entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Collaboration.png\" "
 entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Investigation.png\" "
-entryContent[3] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Practice.png" "
+entryContent[3] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Practice.png\" "
 entryContent[4] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Discussion.png\" "
 entryContent[5] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/Acquisition.png\" "
 
