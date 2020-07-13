@@ -8,7 +8,7 @@
 // **                                                                                **
 // ************************************************************************************
 
-varLength = 2
+varLength = 3
 var entryContent = new Array(varLength)
 
 entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/people-1.png\" alt=\"People Card\" height=\"200\" width=\"200\">"
