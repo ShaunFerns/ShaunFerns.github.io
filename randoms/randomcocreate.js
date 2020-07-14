@@ -11,10 +11,11 @@
 varLength = 4
 var entryContent = new Array(varLength)
 
-entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-1.png\" "
-entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-2.png\" "
-entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-3-1.png\" "
-entryContent[3] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-4.png\" "
+entryContent[0] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-1-1.png\" "
+entryContent[1] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-2-1.png\" "
+entryContent[2] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-3-2.png\" "
+entryContent[3] = "<img src=\"https://cdmonline.ie/cocreate/wp-content/uploads/sites/8/2020/07/CoCreate-4-1.png\" "
+
 
 var randomNumber = Math.random()
 randomNumber *= varLength
